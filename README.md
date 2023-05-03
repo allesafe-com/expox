@@ -2,7 +2,6 @@
 
 Expox is a portable and modular python3 tool designed to quickly enumerate subdomains on a target domain through **passive reconnaissance** and **dictionary scan**.
 
-![expox6](https://user-images.githubusercontent.com/41558/212566603-3120aef5-7df0-402d-b80d-7ea8b14f8c73.png)
 
 ### Very simply
 ```bash
