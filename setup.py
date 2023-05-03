@@ -16,7 +16,7 @@ setup(
 	version="7.1.3",
 	description="Expox is a Expox is a portable and modular python3 tool designed to quickly enumerate subdomains on a target domain through passive reconnaissance and dictionary attack.",
 	url="https://github.com/allesafe-com/expox",
-	author="Gianni 'expox' Amato",
+	author="Atay 'expox' hidd3n",
 	license="GPL-3.0",
 	packages=["expox"],
 	package_data={
