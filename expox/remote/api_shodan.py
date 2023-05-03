@@ -28,7 +28,7 @@ Let's start with simple function specifications:
 
 def get(domain):
 	# shodan -> JSON: key -> data
-	apikey = "aXAG6iaBrucCbmtmMtSY64cJEw3lEmhP" # <- here your API KEY
+	apikey = "jLsinz22tw84Hxbp6xidwBLEPNLksAun" # <- here your API KEY
 
 	url = "https://api.shodan.io/dns/domain/{domain}?key={apikey}".format(domain=domain, apikey=apikey)
 	resp = requests.get(url, timeout=5).text
