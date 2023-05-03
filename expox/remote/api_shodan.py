@@ -22,7 +22,7 @@ Let's start with simple function specifications:
 	requests, json, bs4, re
 """
 
-# author: Gianni Amato
+# author: Ümit ATAY
 # plugin: api_shodan
 # version: 1.0
 
